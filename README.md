@@ -1,5 +1,3 @@
-.
-
 🎬 Netflix Data Analysis & Visualization
 📌 Project Overview
 
@@ -284,7 +282,7 @@ width="800"
 
 Clone the repository
 
-git clone https://github.com/Nitisha707/Netflix-Data-Analysis-and-Visualization.git
+git clone https://github.com/mfurqaniftkhar/Netflix-Data-Analysis-and-Visualization.git
 
 
 Install required libraries
