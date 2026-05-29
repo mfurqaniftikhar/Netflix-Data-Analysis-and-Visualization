@@ -294,7 +294,3 @@ Open Netflix Data Analysis.ipynb in Jupyter or PyCharm
 
 Run all cells sequentially
 
-👩‍💻 Author
-
-Nitisha Sharma
-Aspiring Data Analyst | Python | Data Visualization
